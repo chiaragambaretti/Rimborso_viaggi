@@ -12,7 +12,7 @@ Questo progetto permette di automatizzare la gestione dei rimborsi viaggio di un
    - Calcolo totale rimborsi
 5. Genera una ricevuta **Word** con la somma totale e l’elenco dei viaggi, pronta per la firma del collaboratore.
 
-## Requisit
+## Requisiti
 
 - Python ≥ 3.8
 - Librerie Python:
